@@ -1,5 +1,6 @@
 # WeatherPy
 Creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator.
+
 In this Analysis [OpenWeatherMap API](https://openweathermap.org/api) is used.
 
 <img width="844" alt="equatorsign" src="https://user-images.githubusercontent.com/70447525/117224381-c4703e00-addd-11eb-9c88-975643441bed.png">
